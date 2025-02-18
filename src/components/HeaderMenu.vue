@@ -8,7 +8,7 @@
         <p class="text-gray-400 text-xs">Tag, track, and analyze multiple wallets</p>
       </div>
       <div class="flex space-x-4 text-sm items-center">
-        <button class="px-3 py-1 rounded flex items-center" aria-label="Settings">
+        <button class="bg-gray-800  px-3 py-2 rounded flex items-center " aria-label="Settings">
           <SettingsIcon />
         </button>
         <button 
